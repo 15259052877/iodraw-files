@@ -52,7 +52,7 @@
         <mxCell id="5rIMgb75LbEw4qlriBx_-14" value="Conv((2+n)*self.c,c2,1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="143" y="565" width="191" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="5rIMgb75LbEw4qlriBx_-16" value="s2,1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+        <mxCell id="5rIMgb75LbEw4qlriBx_-16" value="输入张量(batch_size,c2,height,weight)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="136" y="645" width="191" height="54" as="geometry" />
         </mxCell>
       </root>
