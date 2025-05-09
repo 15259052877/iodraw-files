@@ -52,7 +52,7 @@
         <mxCell id="tn0tS12MOFZVvokTrroa-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="tn0tS12MOFZVvokTrroa-18" target="tn0tS12MOFZVvokTrroa-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tn0tS12MOFZVvokTrroa-18" value="全局平均池化&lt;div&gt;(b,c,1,1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="tn0tS12MOFZVvokTrroa-18" value="均值特征图&lt;div&gt;(b,1,h,w)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="468" y="166" width="119" height="48" as="geometry" />
         </mxCell>
         <mxCell id="tn0tS12MOFZVvokTrroa-19" value="&lt;span style=&quot;background-color: rgb(0, 0, 0); font-size: 15px;&quot;&gt;SpatialAttention模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;fontSize=15;" vertex="1" parent="1">
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="tn0tS12MOFZVvokTrroa-24" value="&lt;div style=&quot;text-align: start;&quot;&gt;attn加权求和&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;（b,c,h,w）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="462" y="414" width="121" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-28" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="tn0tS12MOFZVvokTrroa-19" target="tn0tS12MOFZVvokTrroa-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
