@@ -73,10 +73,13 @@
         <mxCell id="5rIMgb75LbEw4qlriBx_-21" value="Conv(c1,2*self.c,1,1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="502" y="184" width="191" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="5rIMgb75LbEw4qlriBx_-26" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="5rIMgb75LbEw4qlriBx_-23" target="5rIMgb75LbEw4qlriBx_-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5rIMgb75LbEw4qlriBx_-23" value="chunk分割为两部分（dim=1）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="502" y="289" width="191" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="5rIMgb75LbEw4qlriBx_-25" value="n个C3K或者Bottleneck模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+        <mxCell id="5rIMgb75LbEw4qlriBx_-25" value="n个Bottleneck模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="549" y="386" width="191" height="54" as="geometry" />
         </mxCell>
       </root>
