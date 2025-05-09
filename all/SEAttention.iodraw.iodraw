@@ -41,7 +41,9 @@
           <mxGeometry x="723" y="70" width="114" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TfUYNgNvXoWGoRXJPdwd-18" value="b" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=#6666FF;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="727" y="333" as="geometry" />
+          <mxGeometry x="667" y="78" as="geometry">
+            <mxPoint x="8" y="17" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
