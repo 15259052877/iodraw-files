@@ -7,11 +7,14 @@
         <mxCell id="tn0tS12MOFZVvokTrroa-1" value="" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rounded=1;fillColor=#000000;glass=0;opacity=30;strokeColor=#FFFFFF;strokeWidth=2;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="28" width="713" height="703" as="geometry" />
         </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tn0tS12MOFZVvokTrroa-4" target="tn0tS12MOFZVvokTrroa-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tn0tS12MOFZVvokTrroa-4" value="输入特征图(b,c,h,w)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="319" y="52" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tn0tS12MOFZVvokTrroa-5" value="输入特征图(b,c,h,w)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="170" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="137" y="157" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tn0tS12MOFZVvokTrroa-6" value="&lt;span style=&quot;background-color: rgb(0, 0, 0); font-size: 15px;&quot;&gt;ChannelAttention模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="125" y="112" width="159" height="20" as="geometry" />
