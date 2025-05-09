@@ -64,8 +64,8 @@
         <mxCell id="tn0tS12MOFZVvokTrroa-20" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="tn0tS12MOFZVvokTrroa-21" target="tn0tS12MOFZVvokTrroa-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tn0tS12MOFZVvokTrroa-21" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;1&lt;/font&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;×1卷积&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;(b,c,1,1)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="468" y="246" width="122" height="47" as="geometry" />
+        <mxCell id="tn0tS12MOFZVvokTrroa-21" value="&lt;div&gt;concat(dim=1)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;(b,2,h,w)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="542" y="262" width="122" height="47" as="geometry" />
         </mxCell>
         <mxCell id="tn0tS12MOFZVvokTrroa-22" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="tn0tS12MOFZVvokTrroa-23" target="tn0tS12MOFZVvokTrroa-24">
           <mxGeometry relative="1" as="geometry" />
