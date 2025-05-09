@@ -76,6 +76,9 @@
         <mxCell id="5rIMgb75LbEw4qlriBx_-23" value="chunk分割为两部分（dim=1）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="502" y="289" width="191" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="5rIMgb75LbEw4qlriBx_-25" value="n个C3K或者Bottleneck模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="549" y="386" width="191" height="54" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
