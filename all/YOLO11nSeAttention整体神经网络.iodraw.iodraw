@@ -50,7 +50,7 @@
             <mxPoint x="76" y="589" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mwy7HJ-acd79DMkchBLF-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mwy7HJ-acd79DMkchBLF-15" target="mwy7HJ-acd79DMkchBLF-146">
+        <mxCell id="mwy7HJ-acd79DMkchBLF-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="mwy7HJ-acd79DMkchBLF-15" target="mwy7HJ-acd79DMkchBLF-146">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mwy7HJ-acd79DMkchBLF-15" value="&lt;font color=&quot;#ffffff&quot;&gt;DWConv&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
