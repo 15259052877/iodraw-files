@@ -17,10 +17,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TfUYNgNvXoWGoRXJPdwd-4" value="&lt;font color=&quot;#ffffff&quot;&gt;输入特征图 x&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;（b,c,h,w）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;glass=0;shadow=0;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="292" y="66" width="114" height="49" as="geometry" />
+          <mxGeometry x="106" y="70" width="114" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TfUYNgNvXoWGoRXJPdwd-5" value="&lt;font color=&quot;#ffffff&quot;&gt;全局平均池化&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;（b,c,1,1）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;glass=0;shadow=0;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="292" y="140" width="114" height="49" as="geometry" />
+          <mxGeometry x="268" y="70" width="114" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
