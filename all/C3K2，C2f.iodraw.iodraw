@@ -25,7 +25,7 @@
         <mxCell id="5rIMgb75LbEw4qlriBx_-5" value="Conv(c1,2*self.c,1,1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="133" y="184" width="191" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="5rIMgb75LbEw4qlriBx_-7" value="split分成两部分" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+        <mxCell id="5rIMgb75LbEw4qlriBx_-7" value="split分成两部分（dim=1）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="133" y="289" width="191" height="54" as="geometry" />
         </mxCell>
       </root>
