@@ -32,7 +32,7 @@
           <mxGeometry x="220" y="335" width="114" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yjRq2ZQBcIgGCB3SLIIL-15" value="&lt;span style=&quot;background-color: rgb(0, 0, 0); font-size: 15px;&quot;&gt;PSA模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="183" y="51" width="66" height="20" as="geometry" />
+          <mxGeometry x="213" y="300" width="66" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
