@@ -19,11 +19,17 @@
         <mxCell id="TfUYNgNvXoWGoRXJPdwd-4" value="&lt;font color=&quot;#ffffff&quot;&gt;输入特征图 x&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;（b,c,h,w）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;glass=0;shadow=0;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="106" y="70" width="114" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="TfUYNgNvXoWGoRXJPdwd-10" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="TfUYNgNvXoWGoRXJPdwd-5" target="TfUYNgNvXoWGoRXJPdwd-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TfUYNgNvXoWGoRXJPdwd-5" value="&lt;font color=&quot;#ffffff&quot;&gt;全局平均池化&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;（b,c,1,1）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;glass=0;shadow=0;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="252" y="70" width="114" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TfUYNgNvXoWGoRXJPdwd-9" value="&lt;font color=&quot;#ffffff&quot;&gt;flatten&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;（b,c）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;glass=0;shadow=0;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="391" y="70" width="114" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="TfUYNgNvXoWGoRXJPdwd-11" value="&lt;font color=&quot;#ffffff&quot;&gt;flatten&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;（b,c）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;glass=0;shadow=0;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="522" y="70" width="114" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
