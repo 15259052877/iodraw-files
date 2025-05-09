@@ -31,7 +31,7 @@
         <mxCell id="yjRq2ZQBcIgGCB3SLIIL-9" value="&lt;div style=&quot;text-align: start;&quot;&gt;attn 注意力模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;glass=0;shadow=0;strokeColor=#001DBC;fontColor=#ffffff;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="335" width="114" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yjRq2ZQBcIgGCB3SLIIL-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=#000000;opacity=0;" vertex="1" parent="1">
+        <mxCell id="yjRq2ZQBcIgGCB3SLIIL-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="487" y="352" width="43" height="20" as="geometry" />
         </mxCell>
       </root>
