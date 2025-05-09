@@ -94,7 +94,7 @@
         <mxCell id="tn0tS12MOFZVvokTrroa-29" value="最大值特征图 dim=1&lt;div&gt;(b,1,h,w)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="644" y="169" width="119" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="tn0tS12MOFZVvokTrroa-32" value="&lt;div style=&quot;text-align: start;&quot;&gt;attn加权求和&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;（b,c,h,w）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="tn0tS12MOFZVvokTrroa-32" value="&lt;div style=&quot;text-align: start;&quot;&gt;&amp;nbsp; &amp;nbsp;（b,c,h,w）&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="543" y="522" width="121" height="49" as="geometry" />
         </mxCell>
         <mxCell id="tn0tS12MOFZVvokTrroa-36" value="&lt;span style=&quot;background-color: rgb(0, 0, 0); font-size: 15px;&quot;&gt;CBAM模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;fontSize=15;" vertex="1" parent="1">
