@@ -150,7 +150,10 @@
           <mxGeometry x="317" y="169" width="67" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-EjOJORooLYAipvu5H6D-61" value="&lt;span style=&quot;background-color: rgb(0, 0, 0);&quot;&gt;(384,40,40)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="396" y="182" width="36" height="29" as="geometry" />
+          <mxGeometry x="399" y="184" width="36" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="-EjOJORooLYAipvu5H6D-62" value="&lt;font color=&quot;#ffffff&quot;&gt;C3K2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="119" y="193" width="57" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
