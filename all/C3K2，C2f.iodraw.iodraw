@@ -58,8 +58,11 @@
         <mxCell id="5rIMgb75LbEw4qlriBx_-16" value="输入张量(batch_size,c2,height,weight)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="136" y="645" width="191" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="5rIMgb75LbEw4qlriBx_-19" value="&lt;span style=&quot;background-color: rgb(0, 0, 0); font-size: 15px;&quot;&gt;C3K2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="5rIMgb75LbEw4qlriBx_-19" value="&lt;span style=&quot;background-color: rgb(0, 0, 0); font-size: 15px;&quot;&gt;C2f&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="566" y="55" width="36" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="5rIMgb75LbEw4qlriBx_-20" value="输入张量(batch_size,c1,height,weight)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="143" y="102" width="197" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
