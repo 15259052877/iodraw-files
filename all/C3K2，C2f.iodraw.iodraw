@@ -17,7 +17,7 @@
           <mxGeometry x="133" y="92" width="168" height="47" as="geometry" />
         </mxCell>
         <mxCell id="5rIMgb75LbEw4qlriBx_-5" value="输入张量(batch_size,c1,height,weight)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="143" y="102" width="168" height="47" as="geometry" />
+          <mxGeometry x="133" y="176" width="191" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
