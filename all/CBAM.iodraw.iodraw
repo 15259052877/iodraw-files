@@ -7,7 +7,7 @@
         <mxCell id="tn0tS12MOFZVvokTrroa-1" value="" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rounded=1;fillColor=#000000;glass=0;opacity=30;strokeColor=#FFFFFF;strokeWidth=2;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="28" width="713" height="703" as="geometry" />
         </mxCell>
-        <mxCell id="tn0tS12MOFZVvokTrroa-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tn0tS12MOFZVvokTrroa-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="319" y="52" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
