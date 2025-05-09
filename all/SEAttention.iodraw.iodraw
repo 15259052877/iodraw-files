@@ -41,9 +41,12 @@
           <mxGeometry x="742" y="70" width="114" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TfUYNgNvXoWGoRXJPdwd-18" value="ReLU激活" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=#6666FF;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="667" y="78" as="geometry">
+          <mxGeometry x="681" y="77" as="geometry">
             <mxPoint x="8" y="17" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TfUYNgNvXoWGoRXJPdwd-19" value="全连接层2&lt;br&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;（b,c/r）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;glass=0;shadow=0;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="752" y="80" width="114" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
