@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-EjOJORooLYAipvu5H6D-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
-          <mxGeometry x="61" y="664" width="55" height="55" as="geometry" />
+          <mxGeometry x="24" y="671" width="55" height="55" as="geometry" />
         </mxCell>
         <mxCell id="-EjOJORooLYAipvu5H6D-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
-          <mxGeometry x="67" y="652" width="56" height="56" as="geometry" />
+          <mxGeometry x="30" y="659" width="56" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="-EjOJORooLYAipvu5H6D-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
-          <mxGeometry x="75" y="643" width="56" height="56" as="geometry" />
+        <mxCell id="-EjOJORooLYAipvu5H6D-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="38" y="650" width="56" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
