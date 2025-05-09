@@ -55,6 +55,9 @@
         <mxCell id="5rIMgb75LbEw4qlriBx_-16" value="输入张量(batch_size,c2,height,weight)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="136" y="645" width="191" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="5rIMgb75LbEw4qlriBx_-18" value="" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rounded=1;fillColor=#000000;glass=0;opacity=30;strokeColor=#FFFFFF;strokeWidth=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="83" y="39" width="325" height="686" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
