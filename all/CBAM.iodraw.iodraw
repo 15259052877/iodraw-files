@@ -5,7 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tn0tS12MOFZVvokTrroa-1" value="" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rounded=1;fillColor=#000000;glass=0;opacity=30;strokeColor=#FFFFFF;strokeWidth=2;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="114" y="34" width="649" height="697" as="geometry" />
+          <mxGeometry x="50" y="28" width="713" height="703" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-3" value="&lt;span style=&quot;background-color: rgb(0, 0, 0); font-size: 15px;&quot;&gt;PSA模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="173" y="41" width="66" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
