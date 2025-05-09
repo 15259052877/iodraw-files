@@ -101,8 +101,8 @@
         <mxCell id="mwy7HJ-acd79DMkchBLF-40" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 13px;&quot;&gt;WiderSPPF&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="38" y="124" width="74" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="mwy7HJ-acd79DMkchBLF-41" value="&lt;span style=&quot;background-color: rgb(0, 0, 0);&quot;&gt;(1024，20,20)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="121" y="113" width="85" height="29" as="geometry" />
+        <mxCell id="mwy7HJ-acd79DMkchBLF-41" value="&lt;span style=&quot;background-color: rgb(0, 0, 0);&quot;&gt;(1024,20,20)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="115" y="111" width="85" height="29" as="geometry" />
         </mxCell>
         <mxCell id="mwy7HJ-acd79DMkchBLF-44" value="&lt;font color=&quot;#ffffff&quot;&gt;C2PSA&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="55" y="85" width="57" height="28" as="geometry" />
