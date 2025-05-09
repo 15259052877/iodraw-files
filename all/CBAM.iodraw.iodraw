@@ -13,6 +13,9 @@
         <mxCell id="tn0tS12MOFZVvokTrroa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="tn0tS12MOFZVvokTrroa-4" target="tn0tS12MOFZVvokTrroa-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-25" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="tn0tS12MOFZVvokTrroa-4" target="tn0tS12MOFZVvokTrroa-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tn0tS12MOFZVvokTrroa-4" value="输入特征图(b,c,h,w)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="319" y="52" width="120" height="60" as="geometry" />
         </mxCell>
@@ -69,6 +72,9 @@
         </mxCell>
         <mxCell id="tn0tS12MOFZVvokTrroa-24" value="&lt;div style=&quot;text-align: start;&quot;&gt;attn加权求和&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;（b,c,h,w）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="462" y="414" width="121" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-26" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="tn0tS12MOFZVvokTrroa-19" target="tn0tS12MOFZVvokTrroa-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
