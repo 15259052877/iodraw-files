@@ -16,7 +16,7 @@
         <mxCell id="tn0tS12MOFZVvokTrroa-4" value="输入特征图(b,c,h,w)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="319" y="52" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tn0tS12MOFZVvokTrroa-5" value="输入特征图(b,c,h,w)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="tn0tS12MOFZVvokTrroa-5" value="全局平均池化&lt;div&gt;(b,c,1,1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="137" y="157" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tn0tS12MOFZVvokTrroa-6" value="&lt;span style=&quot;background-color: rgb(0, 0, 0); font-size: 15px;&quot;&gt;ChannelAttention模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;fontSize=15;" vertex="1" parent="1">
