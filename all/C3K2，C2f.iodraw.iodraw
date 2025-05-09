@@ -49,6 +49,9 @@
         <mxCell id="5rIMgb75LbEw4qlriBx_-14" value="Conv((2+n)*self.c,c2,1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="143" y="565" width="191" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="5rIMgb75LbEw4qlriBx_-16" value="Conv((2+n)*self.c,c2,1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="153" y="575" width="191" height="54" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
