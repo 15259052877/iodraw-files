@@ -48,6 +48,9 @@
         <mxCell id="-EjOJORooLYAipvu5H6D-19" value="&lt;font color=&quot;#ffffff&quot;&gt;C3K2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="37" y="495" width="57" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="-EjOJORooLYAipvu5H6D-21" value="&lt;span style=&quot;background-color: rgb(0, 0, 0);&quot;&gt;(32,160,160)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="114" y="539" width="36" height="29" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
