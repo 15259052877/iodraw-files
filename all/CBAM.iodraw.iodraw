@@ -16,6 +16,9 @@
         <mxCell id="tn0tS12MOFZVvokTrroa-25" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="tn0tS12MOFZVvokTrroa-4" target="tn0tS12MOFZVvokTrroa-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-30" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="tn0tS12MOFZVvokTrroa-4" target="tn0tS12MOFZVvokTrroa-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tn0tS12MOFZVvokTrroa-4" value="输入特征图(b,c,h,w)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="319" y="52" width="120" height="60" as="geometry" />
         </mxCell>
@@ -76,7 +79,7 @@
         <mxCell id="tn0tS12MOFZVvokTrroa-28" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="tn0tS12MOFZVvokTrroa-19" target="tn0tS12MOFZVvokTrroa-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tn0tS12MOFZVvokTrroa-29" value="均值特征图&lt;div&gt;(b,1,h,w)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="tn0tS12MOFZVvokTrroa-29" value="最大值特征图&lt;div&gt;(b,1,h,w)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="643" y="169" width="119" height="48" as="geometry" />
         </mxCell>
       </root>
