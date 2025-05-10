@@ -42,7 +42,7 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aLomAJNd0uTDlqhy3VKZ-42" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;endArrow=classic;" edge="1" parent="1" source="aLomAJNd0uTDlqhy3VKZ-8">
+        <mxCell id="aLomAJNd0uTDlqhy3VKZ-42" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLomAJNd0uTDlqhy3VKZ-8" target="aLomAJNd0uTDlqhy3VKZ-44">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="133.66666666666674" y="331.66666666666674" as="targetPoint" />
           </mxGeometry>
@@ -60,7 +60,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aLomAJNd0uTDlqhy3VKZ-10" value="Bottleneck&lt;div&gt;(b,c_,h,w)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;glass=0;shadow=0;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="213" y="430" width="114" height="49" as="geometry" />
+          <mxGeometry x="208" y="422" width="114" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aLomAJNd0uTDlqhy3VKZ-23" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;endArrow=classic;" edge="1" parent="1" source="aLomAJNd0uTDlqhy3VKZ-17" target="aLomAJNd0uTDlqhy3VKZ-22">
           <mxGeometry relative="1" as="geometry" />
@@ -101,6 +101,9 @@
           <mxGeometry x="282" y="392.0033333333335" as="geometry">
             <mxPoint x="-115" y="-64" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aLomAJNd0uTDlqhy3VKZ-44" value="Bottleneck&lt;div&gt;(b,c_,h,w)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;glass=0;shadow=0;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="42" y="380" width="114" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
