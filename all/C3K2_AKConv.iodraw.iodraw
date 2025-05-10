@@ -138,7 +138,7 @@
           <mxGeometry x="520" y="177" width="114" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aLomAJNd0uTDlqhy3VKZ-55" value="Bottleneck&lt;div&gt;(b,c_,h,w)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;glass=0;shadow=0;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="218" y="432" width="114" height="49" as="geometry" />
+          <mxGeometry x="520" y="279" width="114" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
