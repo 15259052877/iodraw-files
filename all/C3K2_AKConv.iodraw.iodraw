@@ -56,8 +56,8 @@
             <mxPoint x="8" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aLomAJNd0uTDlqhy3VKZ-22" value="Bottleneck" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;glass=0;shadow=0;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="181" y="526" width="114" height="49" as="geometry" />
+        <mxCell id="aLomAJNd0uTDlqhy3VKZ-22" value="Concat(dim=1)&lt;div&gt;(b,(n+2)*c_.h,w)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;glass=0;shadow=0;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="171" y="591" width="114" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
