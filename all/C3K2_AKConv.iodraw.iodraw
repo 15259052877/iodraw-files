@@ -51,9 +51,9 @@
         <mxCell id="aLomAJNd0uTDlqhy3VKZ-17" value="Bottleneck" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;glass=0;shadow=0;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="171" y="516" width="114" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="aLomAJNd0uTDlqhy3VKZ-21" value="&lt;span style=&quot;font-size: 18px; background-color: rgb(102, 102, 255);&quot;&gt;False&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="305" y="502.0028571428571" as="geometry">
-            <mxPoint x="-7" y="-1" as="offset" />
+        <mxCell id="aLomAJNd0uTDlqhy3VKZ-21" value="&lt;span style=&quot;font-size: 18px; background-color: rgb(102, 102, 255);&quot;&gt;n个&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="299" y="513.0028571428571" as="geometry">
+            <mxPoint x="8" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
