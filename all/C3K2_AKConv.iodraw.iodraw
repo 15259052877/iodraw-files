@@ -28,7 +28,7 @@
         <mxCell id="aLomAJNd0uTDlqhy3VKZ-6" value="split成两份(dim=1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;glass=0;shadow=0;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="98" y="230" width="114" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="aLomAJNd0uTDlqhy3VKZ-8" value="is_c3k" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#6666FF;" vertex="1" parent="1">
+        <mxCell id="aLomAJNd0uTDlqhy3VKZ-8" value="&lt;span style=&quot;background-color: rgb(102, 102, 255);&quot;&gt;is_c3k&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#6666FF;" vertex="1" parent="1">
           <mxGeometry x="118" y="308" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
