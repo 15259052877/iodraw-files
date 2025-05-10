@@ -131,7 +131,10 @@
           <mxGeometry x="473" y="709" width="114" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ejg8LCCcIMqPzsDVDomj-44" value="&lt;div&gt;Adapative&lt;/div&gt;&lt;div&gt;AvgPool2d&lt;/div&gt;&lt;div&gt;expand&lt;/div&gt;&lt;div&gt;(b,c_,h,w)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;glass=0;shadow=0;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="313" y="351" width="114" height="49" as="geometry" />
+          <mxGeometry x="313" y="351" width="116" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="Ejg8LCCcIMqPzsDVDomj-46" value="&lt;div&gt;Adapative&lt;/div&gt;&lt;div&gt;AvgPool2d&lt;/div&gt;&lt;div&gt;expand&lt;/div&gt;&lt;div&gt;(b,c_,h,w)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;glass=0;shadow=0;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="705" y="356" width="116" height="73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
