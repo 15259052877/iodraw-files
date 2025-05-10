@@ -130,7 +130,7 @@
         <mxCell id="Ejg8LCCcIMqPzsDVDomj-43" value="&lt;font color=&quot;#ffffff&quot;&gt;输出特征图&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;（b,c2,h,w）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;glass=0;shadow=0;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="473" y="709" width="114" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Ejg8LCCcIMqPzsDVDomj-44" value="&lt;div&gt;MaxPooing,k=5&lt;/div&gt;&lt;div&gt;(b,c_,h,w)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;glass=0;shadow=0;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="Ejg8LCCcIMqPzsDVDomj-44" value="&lt;div&gt;Adapative&lt;/div&gt;&lt;div&gt;AvgPool2d&lt;/div&gt;&lt;div&gt;expand&lt;/div&gt;&lt;div&gt;(b,c_,h,w)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;glass=0;shadow=0;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="313" y="351" width="114" height="49" as="geometry" />
         </mxCell>
       </root>
