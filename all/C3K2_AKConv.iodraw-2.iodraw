@@ -22,15 +22,13 @@
         <mxCell id="aLomAJNd0uTDlqhy3VKZ-4" value="&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;CBS&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;(b,c_*2,h,w)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;glass=0;shadow=0;strokeColor=#C73500;fontColor=#000000;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="208" y="116" width="118" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="aLomAJNd0uTDlqhy3VKZ-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" target="aLomAJNd0uTDlqhy3VKZ-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="287.00330426897335" y="304.00428571428574" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="aLomAJNd0uTDlqhy3VKZ-25" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;resizable=0;endArrow=classic;" parent="1" source="aLomAJNd0uTDlqhy3VKZ-6" target="aLomAJNd0uTDlqhy3VKZ-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aLomAJNd0uTDlqhy3VKZ-26" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;resizable=0;endArrow=classic;" parent="1" source="aLomAJNd0uTDlqhy3VKZ-6" target="aLomAJNd0uTDlqhy3VKZ-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GuudkVIzzL6Zb4Rw-uhQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="aLomAJNd0uTDlqhy3VKZ-6" target="aLomAJNd0uTDlqhy3VKZ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aLomAJNd0uTDlqhy3VKZ-6" value="split成两份(dim=1)&lt;div style=&quot;font-size: 16px;&quot;&gt;a:(b,c_,h,w)&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;b:(b,c_,h,w)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;glass=0;shadow=0;strokeColor=#001DBC;fontColor=#ffffff;fontSize=16;" parent="1" vertex="1">
@@ -223,12 +221,6 @@
         </mxCell>
         <mxCell id="GuudkVIzzL6Zb4Rw-uhQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLomAJNd0uTDlqhy3VKZ-31" target="aLomAJNd0uTDlqhy3VKZ-31">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GuudkVIzzL6Zb4Rw-uhQ-7" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="aLomAJNd0uTDlqhy3VKZ-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="274" y="263" as="sourcePoint" />
-            <mxPoint x="287.00330426897335" y="260.00428571428574" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
