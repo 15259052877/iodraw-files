@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5rIMgb75LbEw4qlriBx_-4" value="输入张量(batch_size,c1,height,weight)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="133" y="92" width="197" height="53" as="geometry" />
+          <mxGeometry x="133" y="92" width="217" height="63" as="geometry" />
         </mxCell>
         <mxCell id="5rIMgb75LbEw4qlriBx_-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="5rIMgb75LbEw4qlriBx_-5" target="5rIMgb75LbEw4qlriBx_-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
