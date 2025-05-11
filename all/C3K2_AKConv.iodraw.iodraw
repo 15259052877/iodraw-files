@@ -185,7 +185,7 @@
           <mxGeometry x="673" y="180" width="114" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aLomAJNd0uTDlqhy3VKZ-71" value="&lt;span style=&quot;background-color: rgb(0, 0, 0); font-size: 15px;&quot;&gt;Bottleneck模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="851" y="232" width="147" height="20" as="geometry" />
+          <mxGeometry x="844" y="213" width="147" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aLomAJNd0uTDlqhy3VKZ-74" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;endArrow=classic;" edge="1" parent="1" source="aLomAJNd0uTDlqhy3VKZ-72" target="aLomAJNd0uTDlqhy3VKZ-73">
           <mxGeometry relative="1" as="geometry" />
@@ -215,9 +215,6 @@
           <mxGeometry x="657" y="570.0028571428571" as="geometry">
             <mxPoint x="332" y="-147" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="aLomAJNd0uTDlqhy3VKZ-81" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;endArrow=classic;" edge="1" parent="1" source="aLomAJNd0uTDlqhy3VKZ-71" target="aLomAJNd0uTDlqhy3VKZ-71">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
