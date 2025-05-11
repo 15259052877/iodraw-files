@@ -236,7 +236,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mwy7HJ-acd79DMkchBLF-88" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;C3K2_AKConv&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;(2层) True&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="383" y="197" width="97" height="43" as="geometry" />
+          <mxGeometry x="383" y="197" width="114" height="44" as="geometry" />
         </mxCell>
         <mxCell id="mwy7HJ-acd79DMkchBLF-89" value="&lt;span style=&quot;background-color: rgb(0, 0, 0); font-size: 16px;&quot;&gt;(1024,20,20)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="516" y="162" width="36" height="29" as="geometry" />
