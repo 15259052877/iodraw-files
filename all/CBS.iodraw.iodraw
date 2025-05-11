@@ -10,11 +10,16 @@
         <mxCell id="-IpOVqISUluOVssvcq0O-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=#ffffff;strokeColor=#FFFFFF;" edge="1" parent="1" source="-IpOVqISUluOVssvcq0O-1" target="-IpOVqISUluOVssvcq0O-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-IpOVqISUluOVssvcq0O-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#006EAF;fontFamily=Helvetica;fontSize=16;fontColor=#ffffff;labelBackgroundColor=default;fillColor=#0066CC;" vertex="1" connectable="0" parent="-IpOVqISUluOVssvcq0O-4">
+          <mxGeometry x="-0.1063" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-IpOVqISUluOVssvcq0O-1" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;输入张量x&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;strokeColor=#006EAF;fontColor=#ffffff;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="15" y="211" width="85" height="25" as="geometry" />
         </mxCell>
         <mxCell id="-IpOVqISUluOVssvcq0O-2" value="卷积层&lt;div&gt;self.conv&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#0066CC;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="162.5" y="193.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="238" y="193.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
