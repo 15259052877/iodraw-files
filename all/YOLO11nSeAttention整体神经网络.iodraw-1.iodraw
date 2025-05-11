@@ -487,9 +487,6 @@
         <mxCell id="mwy7HJ-acd79DMkchBLF-216" value="&lt;span style=&quot;background-color: rgb(0, 0, 0); font-size: 16px;&quot;&gt;(512,40,40)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="534" y="483" width="36" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="OP3k5JsNI8K-nGxLzsZn-12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.004;entryY=0.089;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#ffffff;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="mwy7HJ-acd79DMkchBLF-200" target="mwy7HJ-acd79DMkchBLF-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
