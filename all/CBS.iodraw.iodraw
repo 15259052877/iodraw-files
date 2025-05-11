@@ -10,7 +10,7 @@
         <mxCell id="-IpOVqISUluOVssvcq0O-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=#ffffff;strokeColor=#FFFFFF;" edge="1" parent="1" source="-IpOVqISUluOVssvcq0O-1" target="-IpOVqISUluOVssvcq0O-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-IpOVqISUluOVssvcq0O-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#006EAF;fontFamily=Helvetica;fontSize=16;fontColor=#ffffff;labelBackgroundColor=default;fillColor=#0066CC;" vertex="1" connectable="0" parent="-IpOVqISUluOVssvcq0O-4">
+        <mxCell id="-IpOVqISUluOVssvcq0O-6" value="&lt;font color=&quot;#000000&quot;&gt;卷积操作&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#006EAF;fontFamily=Helvetica;fontSize=16;fontColor=#ffffff;labelBackgroundColor=default;fillColor=#0066CC;" vertex="1" connectable="0" parent="-IpOVqISUluOVssvcq0O-4">
           <mxGeometry x="-0.1063" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
