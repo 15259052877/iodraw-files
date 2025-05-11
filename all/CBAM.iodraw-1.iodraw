@@ -1,0 +1,123 @@
+<mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="ZT3UmZ4CYP42ald2NEUC">
+    <mxGraphModel dx="934" dy="611" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tn0tS12MOFZVvokTrroa-1" value="" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rounded=1;fillColor=#000000;glass=0;opacity=30;strokeColor=#FFFFFF;strokeWidth=2;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="66" y="41" width="704" height="695" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="tn0tS12MOFZVvokTrroa-4" target="tn0tS12MOFZVvokTrroa-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" parent="1" source="tn0tS12MOFZVvokTrroa-4" target="tn0tS12MOFZVvokTrroa-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-25" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="tn0tS12MOFZVvokTrroa-4" target="tn0tS12MOFZVvokTrroa-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-30" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="tn0tS12MOFZVvokTrroa-4" target="tn0tS12MOFZVvokTrroa-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-34" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="tn0tS12MOFZVvokTrroa-4" target="tn0tS12MOFZVvokTrroa-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-35" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="tn0tS12MOFZVvokTrroa-4" target="tn0tS12MOFZVvokTrroa-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-4" value="输入特征图(b,c,h,w)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="319" y="52" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tn0tS12MOFZVvokTrroa-5" target="tn0tS12MOFZVvokTrroa-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFFFF;" parent="1" source="tn0tS12MOFZVvokTrroa-5" target="tn0tS12MOFZVvokTrroa-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-5" value="全局平均池化&lt;div&gt;(b,c,1,1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="137" y="157" width="119" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-6" value="&lt;span style=&quot;background-color: rgb(0, 0, 0); font-size: 15px;&quot;&gt;ChannelAttention模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="125" y="112" width="159" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-13" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="tn0tS12MOFZVvokTrroa-9" target="tn0tS12MOFZVvokTrroa-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-9" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;1&lt;/font&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;×1卷积&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;(b,c,1,1)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="137" y="237" width="122" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="tn0tS12MOFZVvokTrroa-12" target="tn0tS12MOFZVvokTrroa-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-12" value="&lt;div&gt;&lt;span style=&quot;text-align: start; background-color: initial;&quot;&gt;Sigmoid变为注意力权重&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 13px; text-align: start; background-color: initial;&quot;&gt;(b,c,1,1)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="136" y="318" width="121" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-14" value="&lt;div style=&quot;text-align: start;&quot;&gt;attn加权按位相乘&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&amp;nbsp; &amp;nbsp;（b,c,h,w）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="131" y="405" width="121" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tn0tS12MOFZVvokTrroa-18" target="tn0tS12MOFZVvokTrroa-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFFFF;" parent="1" source="tn0tS12MOFZVvokTrroa-18" target="tn0tS12MOFZVvokTrroa-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-18" value="均值特征图 dim=1&lt;div&gt;(b,1,h,w)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="468" y="166" width="119" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-19" value="&lt;span style=&quot;background-color: rgb(0, 0, 0); font-size: 15px;&quot;&gt;SpatialAttention模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="474" y="109" width="159" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-20" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="tn0tS12MOFZVvokTrroa-21" target="tn0tS12MOFZVvokTrroa-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-21" value="&lt;div&gt;concat(dim=1)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;(b,2,h,w)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="542" y="262" width="122" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-22" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="tn0tS12MOFZVvokTrroa-23" target="tn0tS12MOFZVvokTrroa-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-23" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; text-align: start;&quot;&gt;conv&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-family: Arial, sans-serif; font-size: 13px; text-align: start;&quot;&gt;(b,1,h,w)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="543" y="337" width="121" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-33" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="tn0tS12MOFZVvokTrroa-24" target="tn0tS12MOFZVvokTrroa-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-24" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: start; background-color: initial;&quot;&gt;Sigmoid变为注意力权重&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 13px; text-align: start; background-color: initial;&quot;&gt;(b,1,h,w)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="543" y="435" width="121" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-28" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="tn0tS12MOFZVvokTrroa-19" target="tn0tS12MOFZVvokTrroa-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-31" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="tn0tS12MOFZVvokTrroa-29" target="tn0tS12MOFZVvokTrroa-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-29" value="最大值特征图 dim=1&lt;div&gt;(b,1,h,w)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="644" y="169" width="119" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-32" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;div&gt;attn加权按位相乘&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;（b,c,h,w）&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="543" y="522" width="121" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-36" value="&lt;span style=&quot;background-color: rgb(0, 0, 0); font-size: 15px;&quot;&gt;CBAM模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="106" y="480" width="159" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-39" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="tn0tS12MOFZVvokTrroa-37" target="tn0tS12MOFZVvokTrroa-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-37" value="&lt;div&gt;通道注意力&lt;/div&gt;&lt;div&gt;(b,c,h,w)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="114" y="528" width="119" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-41" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="tn0tS12MOFZVvokTrroa-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="173.66666666666674" y="673.3333841959636" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-38" value="&lt;div&gt;空间注意力&lt;/div&gt;&lt;div&gt;(b,c,h,w)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="114" y="598" width="119" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tn0tS12MOFZVvokTrroa-40" value="&lt;div&gt;输出特征图&lt;/div&gt;&lt;div&gt;(b,c,h,w)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="114" y="674" width="119" height="48" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
