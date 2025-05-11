@@ -1,0 +1,55 @@
+<mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="0q06s3fIbhZMRwVRLVxY">
+    <mxGraphModel dx="794" dy="519" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-IpOVqISUluOVssvcq0O-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#ffffff;" parent="1" source="-IpOVqISUluOVssvcq0O-1" target="-IpOVqISUluOVssvcq0O-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-IpOVqISUluOVssvcq0O-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=#ffffff;strokeColor=#FFFFFF;" parent="1" source="-IpOVqISUluOVssvcq0O-1" target="-IpOVqISUluOVssvcq0O-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-IpOVqISUluOVssvcq0O-6" value="&lt;font style=&quot;background-color: rgb(102, 102, 255);&quot; color=&quot;#000000&quot;&gt;卷积操作&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#006EAF;fontFamily=Helvetica;fontSize=16;fontColor=#ffffff;labelBackgroundColor=default;fillColor=#0066CC;" parent="-IpOVqISUluOVssvcq0O-4" vertex="1" connectable="0">
+          <mxGeometry x="-0.1063" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-IpOVqISUluOVssvcq0O-1" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;输入张量x&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;strokeColor=#006EAF;fontColor=#ffffff;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="15" y="211" width="85" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="-IpOVqISUluOVssvcq0O-10" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#ffffff;labelBackgroundColor=default;endArrow=classic;" parent="1" source="-IpOVqISUluOVssvcq0O-2" target="-IpOVqISUluOVssvcq0O-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-IpOVqISUluOVssvcq0O-11" value="&lt;span style=&quot;color: rgb(0, 0, 0); background-color: rgb(102, 102, 255);&quot;&gt;批归一化&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#006EAF;fontFamily=Helvetica;fontSize=16;fontColor=#ffffff;labelBackgroundColor=default;fillColor=#0066CC;" parent="-IpOVqISUluOVssvcq0O-10" vertex="1" connectable="0">
+          <mxGeometry x="-0.1333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-IpOVqISUluOVssvcq0O-2" value="卷积层&lt;div&gt;self.conv&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#0066CC;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="238" y="193.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-IpOVqISUluOVssvcq0O-13" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#ffffff;labelBackgroundColor=default;endArrow=classic;" parent="1" source="-IpOVqISUluOVssvcq0O-7" target="-IpOVqISUluOVssvcq0O-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-IpOVqISUluOVssvcq0O-14" value="&lt;span style=&quot;color: rgb(0, 0, 0); background-color: rgb(102, 102, 255);&quot;&gt;激活函数&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#006EAF;fontFamily=Helvetica;fontSize=16;fontColor=#ffffff;labelBackgroundColor=default;fillColor=#0066CC;" parent="-IpOVqISUluOVssvcq0O-13" vertex="1" connectable="0">
+          <mxGeometry x="-0.1179" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-IpOVqISUluOVssvcq0O-7" value="批归一化层&lt;div&gt;self.bn&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#0066CC;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="468" y="193.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-IpOVqISUluOVssvcq0O-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#ffffff;labelBackgroundColor=default;endArrow=classic;" parent="1" source="-IpOVqISUluOVssvcq0O-12" target="-IpOVqISUluOVssvcq0O-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-IpOVqISUluOVssvcq0O-12" value="激活函数层&lt;div&gt;self.act&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#0066CC;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="689" y="193.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-IpOVqISUluOVssvcq0O-15" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;输出张量&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;strokeColor=#006EAF;fontColor=#ffffff;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="866" y="217" width="85" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
